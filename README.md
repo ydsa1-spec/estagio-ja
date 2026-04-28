@@ -1,2 +1,28 @@
-# estagio-ja
-Projeto de estágio do IFAL
+# EstágioJá
+
+## Sobre o Projeto
+
+O EstágioJá é um aplicativo criado para ajudar estudantes a encontrar vagas de estágio.
+
+O sistema permite buscar vagas, cadastrar usuários e acompanhar candidaturas.
+
+## Funcionalidades
+
+- Cadastro e Login
+- Buscar vagas
+- Filtrar por cidade e área
+- Salvar vagas favoritas
+- Candidatar-se às vagas
+
+## Público-Alvo
+
+- Estudantes
+- Jovens procurando primeiro estágio
+- Pessoas mudando de área profissional
+
+## Equipe
+
+- Yasmim Dayane
+- Beatriz Vitória
+- Ingryd Guimarães
+- Kézia Jaqueline

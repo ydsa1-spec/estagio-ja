@@ -22,7 +22,7 @@ O sistema permite buscar vagas, cadastrar usuários e acompanhar candidaturas.
 
 ## Equipe
 
-- Yasmim Dayane
-- Beatriz Vitória
-- Ingryd Guimarães
-- Kézia Jaqueline
+- Yasmim Dayane — Front-end / Design / Organização
+- Beatriz Vitória — Pesquisa e Documentação
+- Ingryd Guimarães — Planejamento e Funcionalidades
+- Kézia Jaqueline — Ideias e Estrutura do Projeto
